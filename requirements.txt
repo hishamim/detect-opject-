@@ -1,1 +1,5 @@
 fastapi[all]
+uvicorn[standrad]
+ultralytics 
+opencv-python-headless  
+pillow
